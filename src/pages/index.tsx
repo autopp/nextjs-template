@@ -1,4 +1,3 @@
-import { GetStaticProps } from "next"
 import Head from "next/head"
 import { FC } from "react"
 import Layout, { siteTitle } from "@/components/layout"
